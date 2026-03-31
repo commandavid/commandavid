@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="davidpfp.jpg" alt="David" width="150" height="150" style="border-radius: 50%"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1250&color=38F7D8&background=FFFFFF00&width=435&lines=Hello+There+!+;I%C2%B4m+David)](https://git.io/typing-svg)
 
 <p>
