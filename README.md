@@ -13,6 +13,7 @@
 |----------|------------------|------|------|-----|
 | [Pokestilo](https://github.com/commandavid/pokestilo) | Creates a full pokemon team from an image of a person wearing an outfit | Python | Computer Vision Model, Parametrization, DataBase Filtering, API | Repo only |
 | [Palabramigos](https://github.com/commandavid/palabramigos) | Finds optimal position for given list of words in scrabble board (spanish) | Python, Javascript, css | Data structures, Optimization, API, Web Development|[Visit Webpage](https://commandavid.github.io/palabramigos/) |
+|[Nonogram Generator](https://github.com/commandavid/nonogram-generator/tree/main) | Generates nonogram puzzles from b&w images | Python | Image reading, puzzles, plotting | Repo only |
 | [This is private >:P] | My own personal website :) there you can learn more about me and my hobbies | Javascript, css | Web Design, Web development| [Visit webpage](https://davidsms.com) |
 
 ## Contact:
