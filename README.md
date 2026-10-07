@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1250&color=38F7D8&background=FFFFFF00&width=435&lines=Hello+There+!+;I%C2%B4m+David)](https://git.io/typing-svg)
 
 <p>
-  I'm a Spanish dev and professional goof, very into coding silly little projects.
+  I'm a Spanish dev, physicist and professional multitasker, very into coding side projects.
   Here are some of them!
 </p>
 
